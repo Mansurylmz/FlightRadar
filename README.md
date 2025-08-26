@@ -1,8 +1,16 @@
-# React + Vite
+# FlightRadar
+Bu harika projede, kullanıcılara Güney Avrupa üzerinde uçan uçakların konumlarını ve rotalarını canlı olarak takip etme olanağı sunuyorum. Ayrıca, kuyruk kodu, enlem, boylam ve rota gibi uçuş ayrıntılarını Liste Sayfasında listeliyorum. JS'nin 'setInterval' özelliğiyle gerçek zamanlı verilerle çalıştım.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Kullanılan Teknolojiler
+🌐 RapidAPI: Kuyruk kodu, uçuş yönü, irtifa ve hız dahil olmak üzere canlı uçuş ayrıntılarını almak için kullanılır.
 
-Currently, two official plugins are available:
+🛠️ Redux Araç Seti: Proje boyunca verimli ve yapılandırılmış durum yönetimi sağlandı.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💅 Tailwind CSS: Temiz, modern ve duyarlı bir kullanıcı arayüzü tasarlandı.
+
+🗺️ Harita ve Rota Görselleştirme: Canlı uçuş rotalarını etkileşimli olarak görüntülemek için entegre harita araçları.
+
+# Ekran Kaydı
+Projenin nasıl göründüğüne dair bir fikir edinmek için aşağıdaki gif'e göz atabilirsiniz
+
+![flight-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8dafa9e6-a79b-4e1e-b631-7237d57db563)
